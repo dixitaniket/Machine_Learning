@@ -11,6 +11,6 @@ To make it work on the system download the folder titanic_project and then compi
 The code here is still in development and I would be adding better techniques in the code to make better predicitions
 The model achives and accuracy of approx 85 %
 
-#Linear Regression
+# Linear_Regression
 >generates artifical data and implement linear regression to find the best fitting line
 >generates plots from data and also of the best fitting line
