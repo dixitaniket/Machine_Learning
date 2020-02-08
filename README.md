@@ -1,7 +1,7 @@
 # Machine_Learning
 All machine learning stuff that I did
 
-#Titanic_project
+# Titanic Dataset
 the project is still in development 
 It predicts the survival of a person based on the feature columns like age ,sex etc.
 
@@ -10,6 +10,10 @@ To make it work on the system download the folder titanic_project and then compi
 
 The code here is still in development and I would be adding better techniques in the code to make better predicitions
 The model achives and accuracy of approx 85 %
+
+# Classic Mnist Dataset using composite Layers and Image Augmentation
+
+
 
 # Linear_Regression
 >generates artifical data and implement linear regression to find the best fitting line
