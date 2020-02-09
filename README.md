@@ -11,13 +11,15 @@ To make it work on the system download the folder titanic_project and then compi
 The code here is still in development and I would be adding better techniques in the code to make better predicitions
 The model achives and accuracy of approx 85 %
 
-# Classic Mnist Dataset using composite Layers and Image Augmentation\
-This is the analysis of mnist dataset using Composite model having a CNN and ANN as  its branches.
-Also used ImageDataGenerator to do image Augementation thus Increasing number of samples to train the model on
-Can Also be used for Fmnist dataset
+# Classic Mnist Dataset using composite Layers and Image Augmentation
+*This is the analysis of mnist dataset using Composite model having a CNN and ANN as  its branches.
+*Also used ImageDataGenerator to do image Augementation thus Increasing number of samples to train the model on
+*Can Also be used for Fmnist dataset
+
+
 
 
 
 # Linear_Regression
->generates artifical data and implement linear regression to find the best fitting line
->generates plots from data and also of the best fitting line
+*generates artifical data and implement linear regression to find the best fitting line
+*generates plots from data and also of the best fitting line
