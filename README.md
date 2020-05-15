@@ -23,3 +23,7 @@ The model achives and accuracy of approx 85 %
 # Linear_Regression
 * generates artifical data and implement linear regression to find the best fitting line
 * generates plots from data and also of the best fitting line
+
+# Housing Prices
+* The train and the test are the orginal datasets, others present are the final preprocessed dataset
+* Model used is Random Forest Regressor using n_estimators hyper_parameter as 1000
