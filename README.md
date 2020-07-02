@@ -1,8 +1,8 @@
 # Machine_Learning
 All machine learning stuff that I did
 
-# Code for blog contains the code for posts discussed on www.makingcomputerssmart.com
-## present 
+# Code for blog contains codes for posts discussed on www.makingcomputerssmart.com
+## Present 
 > demonstration on auto encoders
 
 # Titanic Dataset
